@@ -1,0 +1,56 @@
+nav {
+  background-color: #5555ff;
+}
+header.jumbotron {
+  background-color: #e2e2ff;
+}
+.jumbotron img {
+  width: 200px;
+  border: 5px solid rgb(217, 217, 217);
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+}
+.jumbotron h1,
+.jumbotron p {
+  text-shadow: 1px 1px 10px rgb(217, 215, 215);
+}
+/* section#about {
+  min-height: 600px;
+} */
+section#projects {
+  background-color: #e2e2ff;
+}
+section#contact {
+  min-height: 575px;
+  margin-top: 0;
+}
+section {
+  padding-top: 25px;
+}
+h2 {
+  margin: 20px 0;
+}
+
+hr {
+  width: 25%;
+  margin-left: 37.5% !important;
+  margin-right: 37.5% !important;
+  border-bottom: 3px solid rgb(128, 128, 128);
+}
+
+/* footer */
+footer {
+  padding: 30px;
+  background-color: #5555ff;
+}
+footer a {
+  text-decoration: none;
+  color: #000;
+}
+footer a:hover {
+  font-weight: bold;
+}
+
+/* btn */
+.btn {
+  background-color: #5555ff;
+}
